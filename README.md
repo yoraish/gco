@@ -15,4 +15,7 @@ Welcome to our repository implementing GCo, as presented in:
 </tr>
 </table>
 
+[![GCo video.](media/gco_youtube.png)](https://www.youtube.com/watch?v=QuaJzqOEhZA)
+
+
 We are cleaning up the code and will upload it here shortly.
