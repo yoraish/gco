@@ -5,7 +5,7 @@ Welcome to our repository implementing GCo, as presented in:
 <table style="border: none;">
 <tr>
 <td style="vertical-align: middle; border: none;">
-  <a href="https://arxiv.org/">
+  <a href="https://arxiv.org/abs/2511.10874">
     <img src="https://img.shields.io/badge/arxiv-%23B31B1B.svg?&style=for-the-badge&logo=arxiv&logoColor=white" alt="arxiv link">
   </a>
 </td>
