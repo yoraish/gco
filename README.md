@@ -10,7 +10,7 @@ Welcome to our repository implementing GCo, as presented in:
   </a>
 </td>
 <td style="vertical-align: middle; border: none;">
-  <i>Shaoul, Y., Chen, Z., Mohamed*, MNG., Pecora, F., Likhachev, M., and Li, J., 2025. <strong>Collaborative Multi-Robot Non-Prehensile Manipulation via Flow-Matching Co-Generation</strong>.</i>
+  <i>Shaoul, Y., Chen*, Z., Mohamed*, MNG., Pecora, F., Likhachev, M., and Li, J., 2025. <strong>Collaborative Multi-Robot Non-Prehensile Manipulation via Flow-Matching Co-Generation</strong>.</i>
 </td>
 </tr>
 </table>
