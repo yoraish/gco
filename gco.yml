@@ -1,0 +1,49 @@
+name: gco
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pip
+  - setuptools
+  - wheel
+
+  # avoid NumPy 2.x warnings with torch 2.0.x-era ecosystem
+  - numpy=1.26.*
+
+  # CRITICAL: avoid iJIT_NotifyEvent import crash
+  - mkl<2024.1
+  - intel-openmp<2024.1
+
+  - scipy
+  - sympy
+  - pandas
+  - matplotlib
+  - pillow
+  - tqdm
+  - pyyaml
+  - networkx
+  - requests
+  - certifi
+
+  - cmake
+  - ninja
+  - make
+  - compilers
+
+  - pytorch=2.0.0
+  - torchvision=0.15.0
+  - torchaudio=2.0.0
+  - pytorch-cuda=11.7
+
+  - ipython
+
+  - pip:
+      - mujoco>=3.0.0
+      - wandb>=0.16.0
+      - pybind11>=2.10
+      - python-dateutil>=2.9.0
+      - trimesh>=4.0
